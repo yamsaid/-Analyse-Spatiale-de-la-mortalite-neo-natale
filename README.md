@@ -3,8 +3,7 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/QGIS-Géomatique-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3" width="100%"/>
+<img src="https://img.shields.io/badge/SIG-QGIS%203.34-success?style=for-the-badge&logo=qgis"/>
 
 <img src="https://img.shields.io/badge/Python-Traitement%20des%20données-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
@@ -212,7 +211,6 @@ Les données ont été intégrées dans les couches administratives afin de prod
 
 <img src="https://img.shields.io/badge/SIG-Analyse%20Spatiale-589632?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/SIG-QGIS%203.34-success?style=for-the-badge&logo=qgis"/>
 </p>
 
 
