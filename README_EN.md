@@ -1,89 +1,90 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:16213e,100:0f3460&height=180&text=Analyse%20Spatiale%20de%20la%20Mortalité%20Néo-natale%20au%20Burkina%20Faso&fontSize=20&fontColor=ffffff&desc=SIG%20|%20QGIS%20|%20Santé%20Publique%20|%20Analyse%20Territoriale&descSize=15&descAlignY=75)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:16213e,100:0f3460&height=180&text=Spatial%20Analysis%20of%20Neonatal%20Mortality%20in%20Burkina%20Faso&fontSize=20&fontColor=ffffff&desc=GIS%20|%20QGIS%20|%20Public%20Health%20|%20Spatial%20Analysis&descSize=15&descAlignY=75)
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/QGIS-Géomatique-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
+<img src="https://img.shields.io/badge/QGIS-Geospatial%20Analysis-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Python-Traitement%20des%20données-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-Data%20Processing-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Excel-Préparation%20des%20données-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-Data%20Preparation-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Domaine-Santé%20Publique-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Domain-Public%20Health-red?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Zone%20d'étude-Burkina%20Faso-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Study%20Area-Burkina%20Faso-orange?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Statut-Terminé-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
 
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3" width="100%"/>
 
 <p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/🇫🇷%20Français-2d6a4f?style=for-the-badge" alt="Version Française"/>
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/🇫🇷%20Français-2d6a4f?style=for-the-badge" alt="French Version"/>
   </a>
 
-  <a href="README_EN.md">
+  <a href="#">
     <img src="https://img.shields.io/badge/🇬🇧%20English-1d3557?style=for-the-badge" alt="English Version"/>
   </a>
 </p>
 
-# Résumé
 
-*La mortalité néo-natale demeure un défi majeur de santé publique au Burkina Faso. Malgré les progrès réalisés dans le domaine de la santé maternelle et infantile, des disparités géographiques importantes persistent entre les provinces du pays.*
+# Executive Summary
 
-*Ce projet mobilise les Systèmes d'Information Géographique (SIG) afin d'analyser la distribution spatiale de la mortalité néo-natale à l'échelle provinciale. À partir de données sanitaires, démographiques et socio-économiques, plusieurs indicateurs ont été cartographiés afin d'identifier les zones les plus vulnérables et d'explorer les facteurs associés à ce phénomène.*
+*Neonatal mortality remains a major public health challenge in Burkina Faso. Despite significant progress in maternal and child health, substantial geographic disparities persist across the country's provinces.*
 
-*L'étude combine extraction de données, traitement statistique, analyse exploratoire et cartographie thématique sous QGIS pour fournir une lecture territoriale des inégalités de santé observées au Burkina Faso.*
+*This project uses Geographic Information Systems (GIS) to analyze the spatial distribution of neonatal mortality at the provincial level. Drawing on health, demographic, and socio-economic data, several indicators were mapped to identify the most vulnerable areas and explore the factors associated with neonatal deaths.*
 
-### 🚀 Principaux résultats
+*The study combines data extraction, statistical processing, exploratory analysis, and thematic cartography in QGIS to provide a territorial perspective on health inequalities in Burkina Faso.*
 
-✔ Analyse réalisée sur les **45 provinces** du Burkina Faso
+### 🚀 Key Results
 
-✔ Cartographie de la mortalité néo-natale à l'échelle provinciale
+✔ Analysis conducted across **45 provinces** of Burkina Faso
 
-✔ Identification des provinces à risque élevé
+✔ Provincial mapping of neonatal mortality
 
-✔ Analyse de l'accessibilité géographique aux infrastructures sanitaires
+✔ Identification of high-risk provinces
 
-✔ Étude du lien entre pauvreté et mortalité néo-natale
+✔ Assessment of geographical accessibility to healthcare facilities
 
-✔ Production de cartes thématiques sous QGIS
+✔ Investigation of the relationship between poverty and neonatal mortality
 
-✔ Utilisation conjointe de données sanitaires, démographiques et socio-économiques
+✔ Production of thematic maps using QGIS
 
-**Compétences mobilisées :** SIG, géomatique, analyse spatiale, santé publique, cartographie thématique, Python, traitement de données, visualisation territoriale, aide à la décision.
+✔ Integration of health, demographic, and socio-economic datasets
+
+**Skills Applied:** GIS, geospatial analysis, public health analytics, thematic cartography, Python, data processing, spatial visualization, and decision-support analysis.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3" width="100%"/>
 
-# 📌 Contexte
+# 📌 Background
 
-La mortalité néo-natale correspond au décès d'un enfant durant les vingt-huit premiers jours suivant sa naissance.
+Neonatal mortality refers to the death of a child during the first twenty-eight days after birth.
 
-Au Burkina Faso, cet indicateur demeure une préoccupation majeure pour les acteurs de la santé publique. Les disparités observées entre les provinces suggèrent l'existence de facteurs géographiques, économiques et sanitaires qui influencent différemment le risque de décès néo-natal selon les territoires.
+In Burkina Faso, this indicator remains a major concern for public health stakeholders. Differences observed across provinces suggest that geographical, economic, and healthcare-related factors may influence neonatal mortality risk differently from one territory to another.
 
-Les Systèmes d'Information Géographique (SIG) constituent un outil particulièrement adapté pour visualiser ces disparités spatiales, identifier les zones prioritaires et soutenir les politiques publiques de santé.
+Geographic Information Systems (GIS) provide powerful tools to visualize these disparities, identify priority intervention areas, and support evidence-based health policies.
 
-> 💡 **Problématique :**
+> 💡 **Research Question**
 >
-> Quelles sont les provinces les plus touchées par la mortalité néo-natale au Burkina Faso et dans quelle mesure les facteurs liés à l'accessibilité aux soins et à la pauvreté contribuent-ils aux disparités observées ?
+> Which provinces are most affected by neonatal mortality in Burkina Faso, and to what extent do healthcare accessibility and poverty contribute to the observed spatial disparities?
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3" width="100%"/>
 
-# 🎯 Objectifs
+# 🎯 Objectives
 
-### Objectif général
+### General Objective
 
-Analyser la répartition spatiale de la mortalité néo-natale au Burkina Faso afin d'identifier les zones prioritaires d'intervention.
+Analyze the spatial distribution of neonatal mortality in Burkina Faso in order to identify priority intervention areas.
 
-### Objectifs spécifiques
+### Specific Objectives
 
-- Cartographier la distribution spatiale de la mortalité néo-natale.
-- Identifier les provinces à haut risque.
-- Étudier l'influence de facteurs sanitaires et socio-économiques.
-- Évaluer l'accessibilité géographique aux infrastructures sanitaires.
-- Produire des cartes thématiques d'aide à la décision.
-- Formuler des recommandations pour les décideurs publics.
+* Map the spatial distribution of neonatal mortality.
+* Identify high-risk provinces.
+* Investigate the influence of health and socio-economic factors.
+* Assess geographical accessibility to healthcare facilities.
+* Produce thematic maps for decision support.
+* Formulate recommendations for policymakers.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3" width="100%"/>
 
@@ -97,31 +98,31 @@ Analyser la répartition spatiale de la mortalité néo-natale au Burkina Faso a
 
 <h3 align="center">Sources</h3>
 
-| Élément | Description |
-|----------|------------|
-| Pays | Burkina Faso |
-| Niveau géographique | Province |
-| Nombre d'unités | 45 provinces |
-| Source sanitaire | Annuaire statistique du Ministère de la Santé |
-| Source démographique | Projections RGPH 2019 |
-| Source socio-économique | Données d'incidence de pauvreté |
-| Type d'analyse | Analyse spatiale |
+| Item                  | Description                             |
+| --------------------- | --------------------------------------- |
+| Country               | Burkina Faso                            |
+| Geographic Level      | Province                                |
+| Number of Units       | 45 Provinces                            |
+| Health Source         | Ministry of Health Statistical Yearbook |
+| Demographic Source    | 2019 Population Census Projections      |
+| Socio-economic Source | Poverty Incidence Data                  |
+| Analysis Type         | Spatial Analysis                        |
 
 </td>
 
 <td width="65%" valign="top">
 
-<h3 align="center">Variables retenues</h3>
+<h3 align="center">Selected Variables</h3>
 
-| Variable | Description |
-|-----------|------------|
-| `province` | Nom de la province |
-| `id_province` | Identifiant unique |
-| `neo_natal_death_rate` | Proportion de décès néo-natal |
-| `poverty_incidence` | Incidence de pauvreté |
-| `health_access_0_4km` | Population vivant à moins de 4 km d'un centre de santé |
-| `population_csps_ratio` | Ratio habitants / CSPS |
-| `prenatal_visit_rate` | Femmes vues au premier trimestre de grossesse |
+| Variable                | Description                                            |
+| ----------------------- | ------------------------------------------------------ |
+| `province`              | Province name                                          |
+| `id_province`           | Unique identifier                                      |
+| `neo_natal_death_rate`  | Neonatal mortality proportion                          |
+| `poverty_incidence`     | Poverty incidence                                      |
+| `health_access_0_4km`   | Population living within 4 km of a health facility     |
+| `population_csps_ratio` | Population-to-health-center ratio                      |
+| `prenatal_visit_rate`   | Women attending first-trimester prenatal consultations |
 
 </td>
 
@@ -131,70 +132,70 @@ Analyser la répartition spatiale de la mortalité néo-natale au Burkina Faso a
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3" width="100%"/>
 
-# 🔬 Méthodologie
+# 🔬 Methodology
 
 ```text
-Collecte des données
+Data Collection
         │
         ▼
-Extraction des tableaux PDF
+PDF Table Extraction
         │
         ▼
-Traitement sous Excel
+Excel Processing
         │
         ▼
-Nettoyage et préparation
-avec Python
+Data Cleaning and Preparation
+using Python
         │
         ▼
-Construction des indicateurs
+Indicator Construction
         │
         ▼
-Analyse statistique
-• Corrélations
-• Analyse descriptive
+Statistical Analysis
+• Correlations
+• Descriptive Analysis
         │
         ▼
-Jointure des données
-avec les couches SIG
+Spatial Data Integration
+with GIS Layers
         │
         ▼
-Production cartographique
-sous QGIS
+Thematic Mapping
+using QGIS
         │
         ▼
-Analyse spatiale
-et interprétation
+Spatial Interpretation
+and Recommendations
 ```
 
-### Étapes réalisées
+### Main Steps
 
-#### 1. Collecte des données
+#### 1. Data Collection
 
-Les données ont été extraites à partir de l'Annuaire Statistique 2023 du Ministère de la Santé ainsi que de bases socio-économiques complémentaires.
+Data were extracted from the 2023 Statistical Yearbook of the Ministry of Health and complementary socio-economic sources.
 
-#### 2. Extraction des tableaux
+#### 2. Table Extraction
 
-Les tableaux contenus dans les fichiers PDF ont été convertis et restructurés afin d'obtenir une base exploitable.
+PDF tables were converted and restructured into usable datasets.
 
-#### 3. Préparation des données
+#### 3. Data Preparation
 
-- Nettoyage des données
-- Agrégation provinciale
-- Création des identifiants géographiques
-- Construction des indicateurs
+* Data cleaning
+* Provincial aggregation
+* Geographic identifier creation
+* Indicator construction
 
-#### 4. Analyse statistique
+#### 4. Statistical Analysis
 
-Les relations entre les variables ont été explorées à l'aide des coefficients de corrélation de Pearson.
+Relationships between variables were explored using Pearson correlation coefficients.
 
-#### 5. Cartographie sous QGIS
+#### 5. GIS Mapping
 
-Les données ont été intégrées dans les couches administratives afin de produire plusieurs cartes choroplèthes.
+Data were joined with administrative boundary layers to produce thematic choropleth maps.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3" width="100%"/>
 
-# 🛠️ Stack technique
+# 🛠️ Technical Stack
 
 <p align="center">
 
@@ -202,7 +203,7 @@ Les données ont été intégrées dans les couches administratives afin de prod
 
 <img src="https://img.shields.io/badge/OpenPyXL-Excel-3776AB?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/QGIS-Cartographie-589632?style=flat-square"/>
+<img src="https://img.shields.io/badge/QGIS-Cartography-589632?style=flat-square"/>
 
 <img src="https://img.shields.io/badge/PDF-Extraction-3776AB?style=flat-square"/>
 
@@ -210,11 +211,11 @@ Les données ont été intégrées dans les couches administratives afin de prod
 
 <img src="https://img.shields.io/badge/SIG-Analyse%20Spatiale-589632?style=flat-square"/>
 
+<img src="https://img.shields.io/badge/SIG-QGIS%203.34-success?style=for-the-badge&logo=qgis"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3" width="100%"/>
 
-# 📊 Résultats
+# 📊 Results
 
 <table>
 
@@ -222,26 +223,26 @@ Les données ont été intégrées dans les couches administratives afin de prod
 
 <td width="50%" valign="top">
 
-<h3>Corrélations observées</h3>
+<h3>Observed Correlations</h3>
 
-| Variable | Corrélation |
-|-----------|------------|
-| Pauvreté | 0.148 |
-| Distance aux soins | -0.180 |
-| Ratio habitants/CSPS | -0.283 |
-| Consultation prénatale | 0.008 |
+| Variable                         | Correlation |
+| -------------------------------- | ----------- |
+| Poverty Incidence                | 0.148       |
+| Healthcare Accessibility         | -0.180      |
+| Population / Health Center Ratio | -0.283      |
+| Prenatal Consultation Rate       | 0.008       |
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>Zones à risque élevé</h3>
+<h3>High-Risk Provinces</h3>
 
 | Province |
-|-----------|
-| Léraba |
-| Sissili |
-| Zondoma |
+| -------- |
+| Léraba   |
+| Sissili  |
+| Zondoma  |
 
 </td>
 
@@ -249,99 +250,107 @@ Les données ont été intégrées dans les couches administratives afin de prod
 
 </table>
 
-## Visualisations
+## Visualizations
 
-### Mortalité néo-natale
+### Neonatal Mortality by Province
 
-![Carte mortalité néo-natale](AJOUTER_URL_IMAGE)
+![Carte mortalité néo-natale](Cartes/PROP.jpeg)
 
-### Accessibilité aux centres de santé
 
-![Accessibilité](AJOUTER_URL_IMAGE)
+### Accessibility to Health Facilities
 
-### Incidence de pauvreté
+![Accessibilité](Cartes/CT_prop04km.jpeg)
 
-![Pauvreté](AJOUTER_URL_IMAGE)
+### Poverty Incidence
 
-### Femmes vues au premier trimestre
+![Pauvreté](Cartes/CT_INCID.jpeg)
 
-![Consultation prénatale](AJOUTER_URL_IMAGE)
+### First-Trimester Prenatal Consultations
 
-### Ratio habitants / CSPS
+![Consultation prénatale](Cartes/CT_propFem.jpeg)
 
-![Ratio habitants CSPS](AJOUTER_URL_IMAGE)
+### Neonatal Mortality and Women's Coverage
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3" width="100%"/>
+![Carte mortalité néo-natale](Cartes/CT_deces_propf.jpeg)
 
-# 💡 Interprétation
+### Population-to-CSPS Ratio
 
-### Zones prioritaires
+![Ratio habitants CSPS](Cartes/CT_ratio.jpeg)
 
-La Léraba, la Sissili et le Zondoma apparaissent comme les provinces présentant les niveaux les plus élevés de mortalité néo-natale.
 
-### Accessibilité aux soins
-
-Les provinces où la population réside davantage à proximité des centres de santé tendent à présenter des niveaux plus faibles de mortalité néo-natale.
-
-### Influence de la pauvreté
-
-Une corrélation positive est observée entre l'incidence de pauvreté et la mortalité néo-natale, même si cette relation demeure faible.
-
-### Consultations prénatales
-
-Les données analysées montrent une relation très faible entre la consultation au premier trimestre et la mortalité néo-natale.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3" width="100%"/>
 
-# 🌍 Impact
+# 💡 Interpretation
 
-Les résultats peuvent contribuer à :
+### Priority Areas
 
-- La planification sanitaire territoriale.
-- L'identification des zones prioritaires d'intervention.
-- L'amélioration de l'accessibilité aux soins.
-- La réduction des inégalités géographiques de santé.
-- L'allocation optimale des ressources sanitaires.
-- Les travaux de recherche en santé publique.
-- Les études SIG appliquées au développement.
+Léraba, Sissili, and Zondoma appear as the provinces with the highest neonatal mortality levels.
+
+### Healthcare Accessibility
+
+Provinces where populations live closer to health facilities tend to exhibit lower neonatal mortality rates.
+
+### Poverty Effect
+
+A positive relationship is observed between poverty incidence and neonatal mortality, although the association remains relatively weak.
+
+### Prenatal Consultations
+
+The analysis reveals a very weak relationship between first-trimester prenatal consultations and neonatal mortality.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3" width="100%"/>
 
-# ⚠️ Limites
+# 🌍 Potential Impact
+
+The findings can support:
+
+* Territorial health planning
+* Identification of priority intervention zones
+* Improvement of healthcare accessibility
+* Reduction of geographic health inequalities
+* Efficient allocation of healthcare resources
+* Public health research
+* GIS-based development studies
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3" width="100%"/>
+
+
+# ⚠️ Limitations
 
 > [!WARNING]
 >
-> Les analyses reposent sur un nombre limité d'observations (45 provinces), ce qui réduit la puissance statistique des corrélations observées.
+> The analysis relies on a relatively small number of observations (45 provinces), which limits the statistical power of correlation analyses.
 
 > [!WARNING]
 >
-> Les données utilisées proviennent de différentes sources et peuvent comporter certaines imprécisions liées aux opérations d'extraction et d'agrégation.
+> The datasets originate from multiple sources and may contain inaccuracies resulting from extraction and aggregation processes.
 
 > [!WARNING]
 >
-> Une corrélation observée ne constitue pas une relation causale.
+> Correlation does not imply causation.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3" width="100%"/>
 
-# 🧠 Compétences développées
+# 🧠 Skills Developed
 
-| Domaine | Compétences |
-|----------|------------|
-| SIG | QGIS, cartographie thématique |
-| Analyse spatiale | Analyse territoriale |
-| Data Cleaning | Extraction et préparation de données |
-| Python | Traitement automatisé |
-| Santé publique | Analyse d'indicateurs sanitaires |
-| Statistiques | Corrélations, indicateurs |
-| Géomatique | Jointures et gestion des couches |
-| Visualisation | Production de cartes |
-| Aide à la décision | Analyse territoriale appliquée |
+| Domain           | Skills                                 |
+| ---------------- | -------------------------------------- |
+| GIS              | QGIS, thematic cartography             |
+| Spatial Analysis | Territorial analysis                   |
+| Data Cleaning    | Data extraction and preparation        |
+| Python           | Automated data processing              |
+| Public Health    | Health indicator analysis              |
+| Statistics       | Correlation analysis                   |
+| Geomatics        | Spatial joins and GIS layer management |
+| Visualization    | Cartographic production                |
+| Decision Support | Territorial decision-making            |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3" width="100%"/>
 
-# 👥 Équipe & Encadrement
+# 👥 Team & Supervision
 
-## Réalisé par
+## Developed by
 
 <table align="center">
 
@@ -351,7 +360,13 @@ Les résultats peuvent contribuer à :
 
 <b>SAVADOGO Harouna</b><br/>
 <sub>Licence Professionnelle en Analyse Statistique</sub>
+<br/>
 
+<a href="https://github.com/harouna">
+
+<img src="https://img.shields.io/badge/GitHub-harouna-181717?style=flat-square&logo=github"/>
+
+</a>
 </td>
 
 <td align="center">
@@ -371,7 +386,7 @@ Les résultats peuvent contribuer à :
 
 </table>
 
-## Encadrement
+## Academic Supervision
 
 <table align="center">
 
@@ -392,7 +407,7 @@ Les résultats peuvent contribuer à :
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3" width="100%"/>
 
-# 📁 Structure du projet
+# 📁 Project Structure
 
 ```text
 📦 analyse-spatiale-mortalite-neonatale/
@@ -412,11 +427,11 @@ Les résultats peuvent contribuer à :
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3" width="100%"/>
 
-# 📄 Lire le rapport
+# 📄 Read the report
 
 <p align="center">
 
-<img src="AJOUTER_IMAGE_PAGE_GARDE" width="700">
+![cover](Cartes/image.png)
 
 </p>
 
@@ -424,15 +439,16 @@ Les résultats peuvent contribuer à :
 
 <a href="Rapport.pdf">
 
-<img src="https://img.shields.io/badge/Lire%20le%20rapport-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+<img src="https://img.shields.io/badge/Read%20the%20report-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 
 </a>
 
 </p>
 
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3" width="100%"/>
 
-# 📚 Références bibliographiques
+# 📚 References
 
 - Laurent Boissier (2013). *La mortalité liée aux crues torrentielles dans le Sud de la France : une approche de la vulnérabilité humaine face à l'inondation.*
 
@@ -446,16 +462,12 @@ Les résultats peuvent contribuer à :
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=3" width="100%"/>
 
-<p align="center">
 
-<img src="AJOUTER_GIF_ANIME" width="700"/>
-
-</p>
 
 <p align="center">
 
 <sub>
-Projet réalisé dans le cadre du cours de Système d'Information Géographique (SIG) — ISSP · Université Joseph Ki-Zerbo · Burkina Faso 🇧🇫
+Project completed as part of the Geographic Information Systems (GIS) course — ISSP · Joseph Ki-Zerbo University · Burkina Faso 🇧🇫
 </sub>
 
 </p>
