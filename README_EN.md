@@ -4,6 +4,9 @@
 
 <img src="https://img.shields.io/badge/QGIS-Geospatial%20Analysis-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/SIG-QGIS%203.34-success?style=for-the-badge&logo=qgis"/>
+</p>
+
 <img src="https://img.shields.io/badge/Python-Data%20Processing-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Excel-Data%20Preparation-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
@@ -210,9 +213,6 @@ Data were joined with administrative boundary layers to produce thematic choropl
 <img src="https://img.shields.io/badge/Excel-Transformation-217346?style=flat-square"/>
 
 <img src="https://img.shields.io/badge/SIG-Analyse%20Spatiale-589632?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/SIG-QGIS%203.34-success?style=for-the-badge&logo=qgis"/>
-</p>
 
 
 # 📊 Results
